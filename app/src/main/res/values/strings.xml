@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WA Auto Delete</string>
+    <string name="accessibility_service_description">Detecta mensajes enviados por ti en WhatsApp y los borra para todos si no hay respuesta en 2 horas.</string>
+</resources>
